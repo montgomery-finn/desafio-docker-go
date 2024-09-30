@@ -1,1 +1,1 @@
-# desafio-docker-go
+Docker hub image name: sandrojr826/go
